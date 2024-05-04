@@ -1,10 +1,10 @@
-<title>Sanchalana 2k20</title>
+<title>Prati</title>
 <style>
 .bgImage {
-    background-image: url(images/cs03.jpg);
+    background-image: url(images/new.jpg);
     background-size: cover;
     background-position: center center;
-    height: 650px;
+    height: 660px;
     margin-bottom: 25px;
 }
 </style>
@@ -14,7 +14,7 @@
         <div class="navbar-header"><!--website name/title-->
                
                 <a class = "navbar-brand">
-                   <h2> Sanchalana 2k20</h2>
+                   <h2> Prati</h2>
                 </a>
         </div>
        

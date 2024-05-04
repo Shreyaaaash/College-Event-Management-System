@@ -7,7 +7,7 @@ $result = mysqli_query($conn,"SELECT * FROM events,registered r ,participent p W
 
 <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Sanchanala 2k20</title>
+        <title>Prati</title>
         <title></title>
         <?php require 'utils/styles.php'; ?><!--css links. file found in utils folder-->
         
@@ -23,7 +23,7 @@ if (mysqli_num_rows($result) > 0) {
  <table class="table table-hover" >
   
   <tr>
-  <th>USN</th>
+  <th>Reg-ID</th>
     <th>Name</th>
     <th>Branch</th>
     <th>Sem</th>

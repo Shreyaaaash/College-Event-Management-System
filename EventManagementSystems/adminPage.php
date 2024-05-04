@@ -9,7 +9,7 @@ $result = mysqli_query($conn,"SELECT * FROM staff_coordinator s ,event_info ef ,
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Sanchanala 2k20</title>
+<title>Prati</title>
 </head>
     
     <body>

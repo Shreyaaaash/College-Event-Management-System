@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Sanchanala2k20</title>
+        <title>Prati</title>
         <?php require 'utils/styles.php';?>
       
         
@@ -32,7 +32,7 @@
                         </div>
                         <div class="subcontent col-md-6"><!--Text holder with 6 column grid-->
                         
-                            <h1 style="color:#003300 ; font-size:38px ;" ><u><strong>Technical Events</strong></u></h1><!--title-->
+                            <h1 style="color:#003300 ; font-size:38px ;" ><u><strong>Technical Eve</strong></u></h1><!--title-->
                             <p><!--content-->
                                 EMBRACE YOUR TECHNICAL SKILLS BY PARTICIPATING IN OUR DIFFERENT TECHNICAL EVENTS!
                             </p>
@@ -57,7 +57,7 @@
                 <section>
                     <div class="container">
                         <div class="col-md-6"><!--image holder with 6 grid columns-->
-                            <img src="images/gaming.jpg" class="img-responsive">
+                            <img src="./images/gaming.png" class="img-responsive">
                         </div>
                         <div class="subcontent col-md-6"><!--Text holder with 6 column grid-->
                             <h1 style="color:#003300 ; font-size:38px ;"><strong><u>Gaming Events</u></strong></h1><!--title-->

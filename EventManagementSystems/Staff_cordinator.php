@@ -7,7 +7,7 @@ $result = mysqli_query($conn,"SELECT * FROM staff_coordinator s ,events e where 
 
 <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Sanchanala 2k20</title>
+        <title>Prati</title>
         <title></title>
         <?php require 'utils/styles.php'; ?><!--css links. file found in utils folder-->
         

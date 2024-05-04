@@ -1,10 +1,10 @@
 <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Sanchanala 2k20</title>
+        <title>Prati</title>
     <style>
 .bgImage 
 {
-    background-image: url(images/cs03.jpg);
+    background-image: url(images/new.jpg);
     background-size: cover;
     background-position: center center;
     height: 600px;
@@ -22,7 +22,7 @@
             <div class="navbar-header"><!--website name/title-->
              
                 <a class = "navbar-brand">
-                    Sanchalana 2k20
+                    Prati
                 </a> 
             </div>
             <ul class="nav navbar-nav navbar-right"><!--navigation-->

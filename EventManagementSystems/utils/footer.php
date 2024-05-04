@@ -5,10 +5,10 @@
             <section>
                 <div class = "footerContent col-md-4"><!--left content-->
                     <p class = "footerContent1">
-                        <strong>S</strong><span class = "small footerSubtext">ai</span>
-                        <strong>V</strong><span class = "small footerSubtext">idya</span>
-                        <strong>I</strong><span class = "small footerSubtext">nstitue of</span>
-                        <strong>T</strong><span class = "small footerSubtext">echnology</span>
+                        <strong>V</strong><span class = "small footerSubtext">eermata</span>
+                        <strong>J</strong><span class = "small footerSubtext">ijabai</span>
+                        <strong>T</strong><span class = "small footerSubtext">echnological</span>
+                        <strong>I</strong><span class = "small footerSubtext">nstitute</span>
                     </p>
 
                     <p class = "footerSubtext2">
@@ -20,9 +20,9 @@
             <section>
                 <div class = "footcontent col-md-4"><!--middle content-->
                 <p> <br>
-                 Address: Rajanukunte
-                    via Yelahanka
-                    <br>Bengaluru, Karnataka 560064 </p>
+                 Address: Mahajani Road,
+                    Matunga 
+                    <br>Mumbai, Maharashtra </p>
                 </div>
             </section>
             <section>

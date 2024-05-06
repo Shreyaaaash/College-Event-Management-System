@@ -28,11 +28,11 @@
                 <section>
                     <div class="container">
                         <div class="col-md-6"><!--image holder with 6 grid columns-->
-                            <img src="images/technical.jpg" class="img-responsive">
+                            <img src="images/technovanza.png" class="img-responsive">
                         </div>
                         <div class="subcontent col-md-6"><!--Text holder with 6 column grid-->
                         
-                            <h1 style="color:#003300 ; font-size:38px ;" ><u><strong>Technical Eve</strong></u></h1><!--title-->
+                            <h1 style="color:#003300 ; font-size:38px ;" ><u><strong>Technovanza</strong></u></h1><!--title-->
                             <p><!--content-->
                                 EMBRACE YOUR TECHNICAL SKILLS BY PARTICIPATING IN OUR DIFFERENT TECHNICAL EVENTS!
                             </p>
@@ -57,12 +57,12 @@
                 <section>
                     <div class="container">
                         <div class="col-md-6"><!--image holder with 6 grid columns-->
-                            <img src="./images/gaming.png" class="img-responsive">
+                            <img src="./images/sra.png" class="img-responsive">
                         </div>
                         <div class="subcontent col-md-6"><!--Text holder with 6 column grid-->
-                            <h1 style="color:#003300 ; font-size:38px ;"><strong><u>Gaming Events</u></strong></h1><!--title-->
+                            <h1 style="color:#003300 ; font-size:38px ;"><strong><u>SRA</u></strong></h1><!--title-->
                             <p><!--content-->
-                                EMBRACE YOUR GAMING SKILLS BY PARTICIPATING IN OUR DIFFERENT GAMING EVENTS!
+                                EMBRACE YOUR GAMING SKILLS BY PARTICIPATING IN OUR DIFFERENT ROBOTICS EVENTS!
                             </p>
                             
                             <br><br>
@@ -86,12 +86,12 @@
                 <section>
                     <div class="container">
                         <div class="col-md-6"><!--image holder with 6 grid columns-->
-                            <img src="images/onstage.jpg" class="img-responsive">
+                            <img src="images/ranga.png" class="img-responsive">
                         </div>
                         <div class="subcontent col-md-6"><!--Text holder with 6 column grid-->
-                            <h1 style="color:#003300 ; font-size:38px ;"><strong><u>On-Stage Events</strong></u></h1><!--title-->
+                            <h1 style="color:#003300 ; font-size:38px ;"><strong><u>Rangavardhan</strong></u></h1><!--title-->
                             <p><!--content-->
-                                EMBRACE YOUR CONFIDENCE BY PARTICIPATING IN OUR DIFFERENT ON-STAGE EVENTS!
+                                EMBRACE YOUR CONFIDENCE BY PARTICIPATING IN OUR DIFFERENT RANGAWARDHAN EVENTS!
                             </p>
                             
                             <br><br>
@@ -115,12 +115,12 @@
                 <section>
                     <div class="container">
                         <div class="col-md-6"><!--image holder with 6 grid columns-->
-                            <img src="images/offstage.jpg" class="img-responsive">
+                            <img src="images/prati.png" class="img-responsive">
                         </div>
                         <div class="subcontent col-md-6"><!--Text holder with 6 column grid-->
-                            <h1 style="color:#003300 ; font-size:38px ;"><strong><u>Off-Stage Events</u></strong></h1><!--title-->
+                            <h1 style="color:#003300 ; font-size:38px ;"><strong><u>Pratibimb</u></strong></h1><!--title-->
                             <p><!--content-->
-                                 EMBRACE YOUR TALENT BY PARTICIPATING IN OUR DIFFERENT OFF-STAGE EVENTS!
+                                 EMBRACE YOUR TALENT BY PARTICIPATING IN OUR DIFFERENT PRATIBIMB EVENTS!
                             </p>
                             
                             
